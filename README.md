@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Feita para constituir um maior conhecimento em JavaScript, atrelado a um bom momento de nostalgia.
 
-- [Acesse o projeto finalizado, online](https://kiqprado.github.io/LinKs/)
+- [Acesse o projeto finalizado, online](https://kiqprado.github.io/JogoDaVelha/)
 
 ## memo: Licença
 
